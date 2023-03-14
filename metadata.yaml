@@ -1,5 +1,8 @@
 _repo: Mezzotints-in-modern-music-b-Brahms-Tschaikowsky-Chopin-Richard-Strauss-Liszt-and-Wagner_70132
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70132-h/images/cover.jpg
 creator:
   author:
     agent_name: Huneker, James
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1597
     wikipedia: https://en.wikipedia.org/wiki/James_Huneker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70132#Mezzotints-in-modern-music-b-Brahms-Tschaikowsky-Chopin-Richard-Strauss-Liszt-and-Wagner
 gutenberg_issued: '2023-02-25'
 identifiers:
   gutenberg: '70132'
